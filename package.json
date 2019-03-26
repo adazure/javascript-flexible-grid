@@ -1,0 +1,24 @@
+{
+    "name": "flexible.grid",
+    "version": "1.0.0",
+    "description": "Javascript Flexible Grid",
+    "main": "flexible.grid.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/adazure/javascript-flexible-grid.git"
+    },
+    "keywords": [
+        "javascript",
+        "flex",
+        "grid"
+    ],
+    "author": "Kerem Yavuz",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/adazure/javascript-flexible-grid/issues"
+    },
+    "homepage": "https://github.com/adazure/javascript-flexible-grid#readme"
+}
